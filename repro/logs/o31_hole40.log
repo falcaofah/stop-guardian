@@ -1,0 +1,9 @@
+   0.0s  outage 40s starts at t=15s; watching until t=190s
+   0.1s  proxy: client connected
+   1.3s  read OK (block 37289606)
+  15.0s  >>> network DOWN (blackhole)
+  31.9s  read FAILED: The request took too long to respond.
+  55.0s  <<< network UP again
+  57.5s  read OK (block 37290168)
+ 190.9s  end: 64 ok, 2 failed, last state: ok
+ 191.8s  control: a brand-new socket to the same node connects fine

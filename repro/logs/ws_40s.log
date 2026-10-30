@@ -1,0 +1,11 @@
+   0.0s  outage 40s starts at t=15s; watching until t=190s
+   0.1s  proxy: client connected
+   1.3s  read OK (block 37287344)
+  15.0s  >>> network DOWN
+  15.0s  read FAILED: The socket has been closed.
+  17.1s  read FAILED: An unknown RPC error occurred.
+  55.0s  <<< network UP again
+  55.5s  proxy: client connected
+  57.3s  read OK (block 37287904)
+ 191.1s  end: 64 ok, 20 failed, last state: ok
+ 192.1s  control: a brand-new socket to the same node connects fine

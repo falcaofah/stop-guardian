@@ -1,0 +1,13 @@
+   0.0s  outage 360s starts at t=15s; watching until t=510s
+   0.1s  proxy: client connected
+   1.3s  read OK (block 37291876)
+  15.0s  >>> network DOWN (kill)
+  16.1s  read FAILED: An unknown RPC error occurred.
+  31.5s  read FAILED: WebSocket request failed.
+  34.6s  read FAILED: An unknown RPC error occurred.
+ 120.9s  read FAILED: WebSocket request failed.
+ 123.9s  read FAILED: An unknown RPC error occurred.
+ 151.7s  read FAILED: WebSocket request failed.
+ 375.0s  <<< network UP again
+ 510.9s  end: 6 ok, 161 failed, last state: WebSocket request failed.
+ 512.3s  control: a brand-new socket to the same node connects fine

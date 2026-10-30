@@ -1,0 +1,9 @@
+markets: DOGE, XRP, HYPE, SOL, ETH, BTC · 1 rounds · long and short
+
+taker orders
+  100% of max: 0/12 accepted  InsufficientMarginForOrder
+   99% of max: 0/12 accepted  InsufficientMarginForOrder
+   98% of max: 1/12 accepted  InsufficientMarginForOrder
+   97% of max: 2/12 accepted  InsufficientMarginForOrder
+   95% of max: 6/12 accepted  InsufficientMarginForOrder
+   90% of max: 12/12 accepted  

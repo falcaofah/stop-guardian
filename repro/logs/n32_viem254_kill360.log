@@ -1,0 +1,10 @@
+   0.1s  outage 360s starts at t=15s; watching until t=510s
+   0.2s  proxy: client connected
+   1.9s  read OK (block 37304906)
+  15.1s  >>> network DOWN (kill)
+  15.4s  read FAILED: An unknown RPC error occurred.
+ 375.1s  <<< network UP again
+ 375.8s  proxy: client connected
+ 377.5s  read OK (block 37308660)
+ 510.8s  end: 64 ok, 178 failed, last state: ok
+ 512.2s  control: a brand-new socket to the same node connects fine
